@@ -1,0 +1,11 @@
+tMode,weight,gender,carOwner,travelCost,income,transport
+bus,56,male,0,cheap,low,bus
+bus,57,male,1,cheap,medium,bus
+train,89,female,1,cheap,medium,train
+bus,80,female,0,cheap,low,bus
+bus,78,male,1,cheap,medium,bus
+train,68,male,0,standard,medium,train
+train,60,female,1,standard,medium,train
+car,65,female,1,expensive,high,car
+car,70,male,2,expensive,medium,car
+car,68,female,2,expensive,high,car
